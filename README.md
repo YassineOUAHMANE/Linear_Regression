@@ -14,15 +14,15 @@ Ce dépôt contient des fichiers relatifs à l'analyse de données sur les maiso
 ### 1️⃣ Prérequis
 Assurez-vous d'avoir **Python 3.x** et les bibliothèques nécessaires installées :
 
-\`\`\`sh
+```
 pip install pandas numpy matplotlib scikit-learn
-\`\`\`
+```
 
 ### 2️⃣ Exécuter l'analyse
 1. Ouvrez le notebook Jupyter :
-   \`\`\`sh
+  ```
    jupyter notebook "Regression lineare.ipynb"
-   \`\`\`
+   ```
 2. Exécutez les cellules pour charger les données, visualiser les tendances et exécuter le modèle de régression.
 
 ---
@@ -46,8 +46,7 @@ Ce projet vise à explorer **la relation entre différentes caractéristiques de
 
 ---
 
-## 📜 Licence
-Ce projet est open-source et disponible sous la licence **MIT**.
+
 
 <p align="center"><b>Happy Coding! 🎄✨</b></p>
-EOL
+
