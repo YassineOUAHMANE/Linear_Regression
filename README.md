@@ -1,5 +1,4 @@
-# Création du fichier README.md
-cat <<EOL > README.md
+
 # Regression Linéaire & Analyse des Maisons 🏡📊
 
 ## 📌 Description
